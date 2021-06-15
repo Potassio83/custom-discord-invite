@@ -29,7 +29,7 @@ $json_decode  = json_decode($json_get, true);
 </body>
 <script>
 setTimeout(function () {
-   window.location.href= '{invite
+   window.location.href= '{invite}'
 
 },100);
 </script>
